@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class KthFactor {
+    //LEETCODE 1492
 
     static int kthFactor(int n, int k) {
         int count = 0;
